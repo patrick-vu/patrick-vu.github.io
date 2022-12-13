@@ -4,7 +4,7 @@ main:
     url: /research/
     
   - title: "CV"
-    url: /cv/
+    url: /assets/files/cv_patrickvu.pdf
     
   - title: "Guide"
     url: /markdown/
