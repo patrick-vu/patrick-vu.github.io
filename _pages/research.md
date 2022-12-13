@@ -4,13 +4,19 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+<br/> 
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PNS829G"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
-{% include base_path %}
+# <center> Working Papers </center>
+- - -
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**Fake Title** (with Fake person). 2022.<br/>
+<small>[ <a href="#/" onclick="visib('log0')">Abstract</a> | [Draft][log0-draft] ] </small>
+
+<div id="log0" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Test abstract is here
+</small><br><br/></div>
