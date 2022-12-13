@@ -14,7 +14,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 # <center> Working Papers </center>
 - - -
 
-**Can the Replication Rate Tell Us About Selective Publication?**. 2022.<br/>
+**Can the Replication Rate Tell Us About Selective Publication?** 2022.<br/>
 <small>[ <a href="#/" onclick="visib('replication-rate')">Abstract</a> | [Draft][replication-rate-arxiv] ] </small>
 
 <div id="replication-rate" style="display: none; text-align: justify; line-height: 1.2" ><small>
