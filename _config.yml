@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Patrick Vu test"
+title                    : "Patrick Vu"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Patrick Vu"
-  avatar           : "profile.png"
+  avatar           : "profile_brown.png"
   # bio              : "Your biography for the left-hand sidebar"
   # location         : "Location"
   employer         :
