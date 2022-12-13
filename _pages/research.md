@@ -15,7 +15,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 - - -
 
 **Fake Title** (with Fake person). 2022.<br/>
-<small>[ <a href="#/" onclick="visib('log0')">Abstract</a> | [Draft][log0-draft] ] </small>
+<small>[ <a href="#/" onclick="visib('log0')">Abstract</a> | [Draft][] ] </small>
 
 <div id="log0" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Test abstract is here
