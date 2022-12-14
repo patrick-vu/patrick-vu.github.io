@@ -23,7 +23,7 @@ Selective publication is among the most-cited reasons for widespread replication
 
 [replication-rate-dp]: https://www.econstor.eu/bitstream/10419/265309/1/I4R-DP003.pdf
 
-**Do Content Warnings Help People Spot a Deepfake? Evidence from Two Experiments** 2022.<br/>
+**Do Content Warnings Help People Spot a Deepfake? Evidence from Two Experiments** (with Andrew Lewis, Raymond M. Duch and Areeq Chowdhury). *Revise and Resubmit*.<br/>
 <small>[ <a href="#/" onclick="visib('deepfake')">Abstract</a> | [Draft][deepfake-draft] ] </small>
 
 <div id="deepfake" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -55,3 +55,18 @@ Women’s schooling attainment in India continues to lag considerably behind tha
 
 **How Do Individuals Learn? Evidence from Rwanda** (with Aislinn Bohren, Daniel Björkegren and Ashesh Rambachan).
 
+
+
+[//]: This java script is the button to show abstract
+<script>
+ function visib(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
+
+[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
