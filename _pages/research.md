@@ -53,5 +53,5 @@ Women’s schooling attainment in India continues to lag considerably behind tha
 
 **Statistical Treatment Choice with Publication Bias** (with Toru Kitagawa).
 
-**How Do Individuals Learn? Evidence from Rwanda** (with Aislinn Bohren, Daniel Bj\"{o}rkegren and Ashesh Rambachan).
+**How Do Individuals Learn? Evidence from Rwanda** (with Aislinn Bohren, Daniel Björkegren and Ashesh Rambachan).
 
