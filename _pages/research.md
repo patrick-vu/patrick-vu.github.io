@@ -24,14 +24,14 @@ Selective publication is among the most-cited reasons for widespread replication
 [replication-rate-dp]: https://www.econstor.eu/bitstream/10419/265309/1/I4R-DP003.pdf
 
 **Do Content Warnings Help People Spot a Deepfake? Evidence from Two Experiments** (with Andrew Lewis, Raymond M. Duch and Areeq Chowdhury). *Revise and Resubmit*.<br/>
-<small>[ <a href="#/" onclick="visib('deepfake')">Abstract</a> | [Draft][deepfake-draft] ] </small>
+<small>[ <a href="#/" onclick="visib('deepfake')">Abstract</a> | [Draft][deepfake-draft] | Commissioned for the Royal Society Online Information Envirnoment Report[rs-report] ] </small>
 
 <div id="deepfake" style="display: none; text-align: justify; line-height: 1.2" ><small>
 The advent and rapid advancement of 'deepfake videos' — so named as they are fake videos made to look real with the use of deep learning artificial intelligence programs — pose serious challenges to our digital information environment. As the technology continues to improve and fake videos proliferate, there is uncertainty about how people will discern genuine from manipulated videos, and how this will affect trust in online content. This paper conducts a pair of experiments aimed at gauging the public's ability to detect deepfakes from ordinary videos, and the extent to which content warnings improve detection of inauthentic videos. In the first experiment, we consider capacity for detection in natural environments: that is, do people spot deepfakes when they encounter them without a content warning? In the second experiment, we present the first evaluation of how warning labels affect capacity for detection, by telling participants at least one of the videos they are to see is a deepfake and observing the proportion of respondents who correctly identify the altered content. Our results show that, without a warning, individuals are no more likely to notice anything out of the ordinary when exposed to a deepfake video of neutral content (32.9%), compared to a control group who view only authentic videos (34.1%). Second, warning labels improve capacity for detection from 10.7% to 21.6%; while this is a substantial increase, the overwhelming majority of respondents who receive the warning are still unable to tell a deepfake from an unaltered video. A likely implication of this is that individuals, lacking capacity to manually detect deepfakes, will need to rely on the policies set by governments and technology companies around content moderation.
 </small><br><br/></div>
 
 [deepfake-draft]: https://osf.io/v4bf6
-
+[es-report]: https://royalsociety.org/-/media/policy/projects/online-information-environment/the-online-information-environment.pdf
 
 # <center> Published Papers </center>
 - - -
