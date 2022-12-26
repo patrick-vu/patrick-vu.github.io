@@ -66,6 +66,10 @@ Women’s schooling attainment in India continues to lag considerably behind tha
 [dbjorkegren]: https://dan.bjorkegren.com/
 [arambachan]: https://asheshrambachan.github.io/
 
+**Pollution Externalities and Environmental Adaptation: Evidence from Vietnam** (with [Michael Neubauer][mneubauer]).
+
+[mneubauer]: https://ibes.brown.edu/people/michael-neubauer
+
 [//]: This java script is the button to show abstract
 <script>
  function visib(id) {
