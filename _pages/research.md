@@ -23,7 +23,7 @@ Selective publication is among the most-cited reasons for widespread replication
 
 [replication-rate-dp]: https://www.econstor.eu/bitstream/10419/265309/1/I4R-DP003.pdf
 
-**Do Content Warnings Help People Spot a Deepfake? Evidence from Two Experiments** (with Andrew Lewis, Raymond M. Duch and Areeq Chowdhury). *Revise and Resubmit*.<br/>
+**Do Content Warnings Help People Spot a Deepfake? Evidence from Two Experiments** (with [Andrew Lewis][alewis], [Raymond M. Duch][rduch] and [Areeq Chowdhury][]). *Revise and Resubmit*.<br/>
 <small>[ <a href="#/" onclick="visib('deepfake')">Abstract</a> | [Draft][deepfake-draft] | Commissioned for the Royal Society Online Information Envirnoment Report[rs-report] ] </small>
 
 <div id="deepfake" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -33,10 +33,13 @@ The rapid advancement of ‘deepfake’ video technology - which uses deep learn
 
 [deepfake-draft]: https://osf.io/v4bf6
 [es-report]: https://royalsociety.org/-/media/policy/projects/online-information-environment/the-online-information-environment.pdf
+[alewis]: https://www.politics.ox.ac.uk/person/andrew-lewis
+[rduch]: https://www.raymondduch.com/
+[achowdhury]: https://areeqchowdhury.com/
 
 # <center> Published Papers </center>
 - - -
-**Gender Inequality in Education and Kinship Norms in India** (with Anu Rammohan). 2018. *Feminist Economics*.<br/>
+**Gender Inequality in Education and Kinship Norms in India** (with [Anu Rammohan][arammohan]). 2018. *Feminist Economics*.<br/>
 <small>[ <a href="#/" onclick="visib('education-kinship')">Abstract</a> | [Draft][education-kinship] ] </small>
 
 <div id="education-kinship" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -44,7 +47,7 @@ Women’s schooling attainment in India continues to lag considerably behind tha
 </small><br><br/></div>
 
 [education-kinship]: https://econpapers.repec.org/article/taffemeco/v_3a24_3ay_3a2018_3ai_3a1_3ap_3a142-167.htm
-
+[arammohan]: https://research-repository.uwa.edu.au/en/persons/anu-rammohan
 
 # <center> Reserach in Progress </center>
 - - -
@@ -52,11 +55,15 @@ Women’s schooling attainment in India continues to lag considerably behind tha
 **Evidence-Based Policy in the Presence of Selective Publication.**
 
 
-**Statistical Treatment Choice with Publication Bias** (with Toru Kitagawa).
+**Statistical Treatment Choice with Publication Bias** (with [Toru Kitagawa][tkitagawa]).
+[tkitagawa]: https://sites.google.com/brown.edu/torukitagawa
 
-**How Do Individuals Learn? Evidence from Rwanda** (with Aislinn Bohren, Daniel Björkegren and Ashesh Rambachan).
 
+**How Do Individuals Learn? Evidence from Rwanda** (with [Aislinn Bohren][abohren], [Daniel Björkegren][dbjorkegren] and [Ashesh Rambachan][arambachan]).
 
+[abohren]: https://www.aislinnbohren.com/
+[dbjorkegren]: https://dan.bjorkegren.com/
+[arambachan]: https://asheshrambachan.github.io/
 
 [//]: This java script is the button to show abstract
 <script>
