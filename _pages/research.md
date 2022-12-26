@@ -23,7 +23,7 @@ Selective publication is among the most-cited reasons for widespread replication
 
 [replication-rate-dp]: https://www.econstor.eu/bitstream/10419/265309/1/I4R-DP003.pdf
 
-**Do Content Warnings Help People Spot a Deepfake? Evidence from Two Experiments** (with [Andrew Lewis][alewis], [Raymond M. Duch][rduch] and [Areeq Chowdhury][]). *Revise and Resubmit*.<br/>
+**Do Content Warnings Help People Spot a Deepfake? Evidence from Two Experiments** (with [Andrew Lewis][alewis], [Raymond M. Duch][rduch] and [Areeq Chowdhury][achowdhury]). *Revise and Resubmit*.<br/>
 <small>[ <a href="#/" onclick="visib('deepfake')">Abstract</a> | [Draft][deepfake-draft] | Commissioned for the Royal Society Online Information Envirnoment Report[rs-report] ] </small>
 
 <div id="deepfake" style="display: none; text-align: justify; line-height: 1.2" ><small>
