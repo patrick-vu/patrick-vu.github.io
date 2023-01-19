@@ -60,7 +60,7 @@ Women’s schooling attainment in India continues to lag considerably behind tha
 [tkitagawa]: https://sites.google.com/brown.edu/torukitagawa
 
 
-**How Do Individuals Learn? Evidence from Rwanda** (with [Aislinn Bohren][abohren], and [Daniel Björkegren][dbjorkegren].
+**How Do Individuals Learn? Evidence from Rwanda** (with [Aislinn Bohren][abohren], and [Daniel Björkegren][dbjorkegren]).
 
 [abohren]: https://www.aislinnbohren.com/
 [dbjorkegren]: https://dan.bjorkegren.com/
