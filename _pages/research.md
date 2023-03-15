@@ -14,14 +14,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 # <center> Working Papers </center>
 - - -
 
-**Can the Replication Rate Tell Us About Selective Publication?** 2022.<br/>
+**Why Are Replication Rates So Low?** 2023.<br/>
 <small>[ <a href="#/" onclick="visib('replication-rate')">Abstract</a> | [Draft][replication-rate-dp] ] </small>
 
 <div id="replication-rate" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Selective publication is among the most-cited reasons for widespread replication failures. I show in a simple model of the publication process that the replication rate is unresponsive to selective publication against statistically insignificant results. I then show that the expected replication rate falls below its intended target owing to low power in original studies and issues with common power calculations in replication studies. I estimate an empirical model and find that these issues alone can account fully for observed replication rates in experimental economics and social science, and two-thirds of the replication rate gap in psychology. I conclude by discussing more informative measures of selective publication.
+This paper provides theoretical and empirical evidence for why replication rates are low in the social sciences. Theoretically, I show that we should expect replication rates to fall below their intended power targets owing to issues with common power calculations in replication studies, even in the case where original studies are unbiased and there is no p-hacking or treatment effect heterogeneity. Empirically, I find that the interaction of issues with common power calculations and low power in original studies can fully explain observed replication rates in experimental economics and social science, and two-thirds of the replication rate gap in psychology.
 </small><br><br/></div>
 
-[replication-rate-dp]: https://www.econstor.eu/bitstream/10419/265309/1/I4R-DP003.pdf
+[replication-rate-dp]:{{ site.baseurl }}{% link assets/files/20230314_replication_rate_draft.pdf %}
 
 **Do Content Warnings Help People Spot a Deepfake? Evidence from Two Experiments** (with [Andrew Lewis][alewis], [Raymond M. Duch][rduch] and [Areeq Chowdhury][achowdhury]). *Revise and Resubmit*.<br/>
 <small>[ <a href="#/" onclick="visib('deepfake')">Abstract</a> | [Draft][deepfake-draft] | Commissioned for the Royal Society Online Information Envirnoment Report[rs-report] ] </small>
