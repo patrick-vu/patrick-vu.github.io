@@ -11,20 +11,31 @@ permalink: /research/
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
+# <center> Job Market Paper </center>
+
+**Evidence-Based Policy in the Presence of Selective Publication**<br/>
+<small>[ <a href="#/" onclick="visib('clustering')">Abstract</a> | [Draft] (coming soon) ] </small>
+<div id="clustering" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Econometrics research has devoted substantial efforts to improve the credibility of standard errors. This paper provides theoretical and empirical evidence on how improved standard errors interact with the selective publication process to affect the credibility of published studies. I show theoretically that adopting improved but enlarged standard errors at the individual-study level can exacerbate bias in published studies at the aggregate level, as larger effect sizes are required to maintain statistical significance. Nevertheless, coverage in published studies unambiguously improves. I empirically investigate these phenomena using newly collected data from the difference-in-differences literature, where the adoption of clustered standard errors rose from almost no use in the 1990's to near universal adoption by the end of the 2000's. Clustering led to substantial increases in the magnitude of published estimated treatment effects. I estimate an empirical model and find that clustering led to large improvements in coverage but also sizeable increases in bias.
+</small><br><br/></div>
+Presented at 2023 Econometrics Society North American Summer Meeting
+
 # <center> Working Papers </center>
 - - -
 
 **Why Are Replication Rates So Low?** 2023.<br/>
-<small>[ <a href="#/" onclick="visib('replication-rate')">Abstract</a> | [Draft][replication-rate-dp] ] </small>
+<small>[ <a href="#/" onclick="visib('replication-rate')">Abstract</a> | [Draft][replication-rate-dp] | [Replication package][rr-replication] ] </small>
 
 <div id="replication-rate" style="display: none; text-align: justify; line-height: 1.2" ><small>
 This paper provides theoretical and empirical evidence for why replication rates are low in the social sciences. Theoretically, I show that we should expect replication rates to fall below their intended power targets owing to issues with common power calculations in replication studies, even in the case where original studies are unbiased and there is no p-hacking or treatment effect heterogeneity. Empirically, I find that the interaction of issues with common power calculations and low power in original studies can fully explain observed replication rates in experimental economics and social science, and two-thirds of the replication rate gap in psychology.
 </small><br><br/></div>
 
 [replication-rate-dp]:{{ site.baseurl }}{% link assets/files/20230314_replication_rate_draft.pdf %}
+[rr-replication]: https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/182521
+
 
 **Do Content Warnings Help People Spot a Deepfake? Evidence from Two Experiments** (with [Andrew Lewis][alewis], [Raymond M. Duch][rduch] and [Areeq Chowdhury][achowdhury]). *Revise and Resubmit*.<br/>
-<small>[ <a href="#/" onclick="visib('deepfake')">Abstract</a> | [Draft][deepfake-draft] | Commissioned for the Royal Society Online Information Envirnoment Report[rs-report] ] </small>
+<small>[ <a href="#/" onclick="visib('deepfake')">Abstract</a> | [Draft][deepfake-draft] | [Commissioned for the Royal Society Report on the Online Information Environment][rs-report] ] </small>
 
 <div id="deepfake" style="display: none; text-align: justify; line-height: 1.2" ><small>
 The rapid advancement of ‘deepfake’ video technology - which uses deep learning artificial intelligence algorithms to create fake videos that look real — has given urgency to the question of how policymakers and technology companies should moderate inauthentic content. We conduct an experiment to measure the public’s ability to detect deepfakes with the naked eye, both with and without content warnings. First, we find that in a natural setting with no content warnings, individuals who are exposed to a deepfake video of neutral content are no more likely to detect anything out of the ordinary (32.9%) compared to a control group who viewed only authentic videos (34.1%). Second, we find that when individuals are given a content warning that at least one video in a set of five videos is a deepfake, only 21.6% correctly identify the single inauthentic video. In the latter condition, nearly half of participants erroneously select more than one video, which provides suggestive evidence that content warnings of this kind may increase distrust in all online videos, including authentic content. A possible implication of low manual detection abilities is that individuals may need to rely on content moderation policies set by governments and technology companies — raising issues around trust in moderators’ judgments.
@@ -32,7 +43,7 @@ The rapid advancement of ‘deepfake’ video technology - which uses deep learn
 </small><br><br/></div>
 
 [deepfake-draft]: https://osf.io/v4bf6
-[es-report]: https://royalsociety.org/-/media/policy/projects/online-information-environment/the-online-information-environment.pdf
+[rs-report]: https://royalsociety.org/-/media/policy/projects/online-information-environment/the-online-information-environment.pdf
 [alewis]: https://www.politics.ox.ac.uk/person/andrew-lewis
 [rduch]: https://www.raymondduch.com/
 [achowdhury]: https://areeqchowdhury.com/
@@ -52,10 +63,9 @@ Women’s schooling attainment in India continues to lag considerably behind tha
 # <center> Reserach in Progress </center>
 - - -
 
-**Evidence-Based Policy in the Presence of Selective Publication.**
 
 
-**Statistical Treatment Choice with Publication Bias** (with [Toru Kitagawa][tkitagawa]).
+**Statistical Treatment Choice With Selective Publication** (with [Toru Kitagawa][tkitagawa]).
 
 [tkitagawa]: https://sites.google.com/brown.edu/torukitagawa
 
