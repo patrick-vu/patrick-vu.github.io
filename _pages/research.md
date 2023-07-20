@@ -19,7 +19,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 Econometrics research has devoted substantial efforts to improve the credibility of standard errors. This paper provides theoretical and empirical evidence on how improved standard errors interact with the selective publication process to affect the credibility of published studies. I show theoretically that adopting improved but enlarged standard errors at the individual-study level can exacerbate bias in published studies at the aggregate level, as larger effect sizes are required to maintain statistical significance. Nevertheless, coverage in published studies unambiguously improves. I empirically investigate these phenomena using newly collected data from the difference-in-differences literature, where the adoption of clustered standard errors rose from almost no use in the 1990's to near universal adoption by the end of the 2000's. Clustering led to substantial increases in the magnitude of published estimated treatment effects. I estimate an empirical model and find that clustering led to large improvements in coverage but also sizeable increases in bias.
 </small><br><br/></div>
 <small>
-Presented at 2023 Econometrics Society North American Summer Meeting
+*Presented at 2023 Econometrics Society North American Summer Meeting*
 <small>
 
 # <center> Working Papers </center>
