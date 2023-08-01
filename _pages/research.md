@@ -34,7 +34,7 @@ Econometrics research has devoted substantial efforts to improving the credibili
 Many explanations have been offered for why replication rates are low in the social sciences, including selective publication, p-hacking, and treatment effect heterogeneity. This article emphasizes that issues with common power calculations in replication studies may also play an important role. Theoretically, I show in a simple model of the publication process that issues with the way that replication power is commonly calculated imply we should always expect replication rates to fall below their intended power targets, even when original studies are unbiased and there is no p-hacking or treatment effect heterogeneity. Empirically, I find that a parsimonious model accounting only for issues with power calculations can fully explain observed replication rates in experimental economics and social science, and two-thirds of the replication gap in psychology.
 </small><br><br/></div>
 
-[replication-rate-dp]:{{ site.baseurl }}{% link assets/files/20230314_replication_rate_draft.pdf %}
+[replication-rate-dp]:{{ site.baseurl }}{% link assets/files/20230802_replication_rate.pdf %}
 [rr-replication]: https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/182521
 
 
