@@ -27,7 +27,7 @@ Econometrics research has devoted substantial efforts to improving the credibili
 # <center> Working Papers </center>
 - - -
 
-**Why Are Replication Rates So Low?** 2023. *Submitted* <br/>
+**Why Are Replication Rates So Low?** 2023. *Under Review* <br/>
 <small>[ <a href="#/" onclick="visib('replication-rate')">Abstract</a> | [Draft][replication-rate-dp] | [Replication package][rr-replication] ] </small>
 
 <div id="replication-rate" style="display: none; text-align: justify; line-height: 1.2" ><small>
