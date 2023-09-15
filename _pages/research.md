@@ -70,7 +70,7 @@ Women’s schooling attainment in India continues to lag considerably behind tha
 
 
 
-**Statistical Treatment Choice With Selective Publication** (with [Toru Kitagawa][tkitagawa]).
+**Evidence-Based Policy with Publication Bias** (with [Toru Kitagawa][tkitagawa]).
 
 [tkitagawa]: https://sites.google.com/brown.edu/torukitagawa
 
