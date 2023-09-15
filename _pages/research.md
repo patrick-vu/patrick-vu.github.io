@@ -62,7 +62,7 @@ The rapid advancement of ‘deepfake’ video technology — which uses deep lea
 Women’s schooling attainment in India continues to lag considerably behind that of men. This paper uses nationally representative district-level data from the 2007–8 District Level Household and Facility Survey (DLHS-3), Indicus Analytics, and the 2011–12 Indian Human Development Survey-II (IHDS-II) to examine the role of socioeconomic and cultural factors in influencing gender differentials in schooling. The results provide quantitative evidence of the role of different economic and sociocultural factors on gender disparities in education. The empirical results show that economic development is an important factor in narrowing gender gaps in education, with wealthier districts more likely to educate girls than poorer districts. However, the norm of patrilocal exogamy, where wives migrate to co-reside with their husband’s kin, is associated with worse outcomes for women’s schooling relative to men’s schooling; and, in keeping with anthropological research, gender-differentiated inequities in education are more pronounced in Northern India.
 </small><br><br/></div>
 
-[education-kinship]: https://econpapers.repec.org/article/taffemeco/v_3a24_3ay_3a2018_3ai_3a1_3ap_3a142-167.htm
+[education-kinship]: https://www.tandfonline.com/doi/abs/10.1080/13545701.2017.1364399#:~:text=However%2C%20the%20norm%20of%20patrilocal,more%20pronounced%20in%20Northern%20India.
 [arammohan]: https://research-repository.uwa.edu.au/en/persons/anu-rammohan
 
 # <center> Reserach in Progress </center>
