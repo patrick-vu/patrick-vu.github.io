@@ -70,7 +70,7 @@ Women’s schooling attainment in India continues to lag considerably behind tha
 
 
 
-**Evidence-Based Policy Choice With Publication Bias** (with [Toru Kitagawa][tkitagawa]).
+**Optimal Publication Rules for Evidence-Based Policy** (with [Toru Kitagawa][tkitagawa]).
 
 [tkitagawa]: https://sites.google.com/brown.edu/torukitagawa
 
