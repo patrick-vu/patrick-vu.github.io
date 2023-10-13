@@ -27,7 +27,7 @@ Over the past several decades, econometrics research has devoted substantial eff
 # <center> Working Papers </center>
 - - -
 
-**Why Are Replication Rates So Low?** 2023. *Under Review* <br/>
+**Why Are Replication Rates So Low?** 2023. *Under Review.* <br/>
 <small>[ <a href="#/" onclick="visib('replication-rate')">Abstract</a> | [Draft][replication-rate-dp] | [Replication package][rr-replication] ] </small>
 
 <div id="replication-rate" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -42,7 +42,7 @@ Many explanations have been offered for why replication rates are low in the soc
 [rr-replication]: https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/182521
 
 
-**Do Content Warnings Help People Spot a Deepfake? Evidence from Two Experiments** (with [Andrew Lewis][alewis], [Raymond M. Duch][rduch] and [Areeq Chowdhury][achowdhury]). *Revised and Resubmited, Royal Society Open Science*.<br/>
+**Do Content Warnings Help People Spot a Deepfake? Evidence from Two Experiments** (with [Andrew Lewis][alewis], [Raymond M. Duch][rduch] and [Areeq Chowdhury][achowdhury]). *Revised and Resubmited, Royal Society Open Science.*<br/>
 <small>[ <a href="#/" onclick="visib('deepfake')">Abstract</a> | [Draft][deepfake-draft] | [Commissioned for the Royal Society Report on the Online Information Environment][rs-report] ] </small>
 
 <div id="deepfake" style="display: none; text-align: justify; line-height: 1.2" ><small>
