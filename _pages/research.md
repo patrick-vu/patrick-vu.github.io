@@ -21,7 +21,7 @@ Over the past several decades, econometrics research has devoted substantial eff
 </small><br><br/></div>
 
 <small>
-*Presented at 2023 Econometrics Society North American Summer Meeting*
+*Presented at 2023 Econometrics Society North American Summer Meeting (Los Angeles)*
 <small>
 
 # <center> Working Papers </center>
@@ -34,11 +34,15 @@ Over the past several decades, econometrics research has devoted substantial eff
 Many explanations have been offered for why replication rates are low in the social sciences, including selective publication, p-hacking, and treatment effect heterogeneity. This article emphasizes that issues with common power calculations in replication studies may also play an important role. Theoretically, I show in a simple model of the publication process that issues with the way that replication power is commonly calculated imply we should always expect replication rates to fall below their intended power targets, even when original studies are unbiased and there is no p-hacking or treatment effect heterogeneity. Empirically, I find that a parsimonious model accounting only for issues with power calculations can fully explain observed replication rates in experimental economics and social science, and two-thirds of the replication gap in psychology.
 </small><br><br/></div>
 
+<small>
+*Presented at 2023 Econometrics Society Australian Meeting (Sydney), 2022 Association for Interdisciplinary Meta-research & Open Science Conference (Melbourne)*
+<small>
+
 [replication-rate-dp]:{{ site.baseurl }}{% link assets/files/20230802_replication_rate.pdf %}
 [rr-replication]: https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/182521
 
 
-**Do Content Warnings Help People Spot a Deepfake? Evidence from Two Experiments** (with [Andrew Lewis][alewis], [Raymond M. Duch][rduch] and [Areeq Chowdhury][achowdhury]). *Revise and Resubmit*.<br/>
+**Do Content Warnings Help People Spot a Deepfake? Evidence from Two Experiments** (with [Andrew Lewis][alewis], [Raymond M. Duch][rduch] and [Areeq Chowdhury][achowdhury]). *Revised and Resubmited, Royal Society Open Science*.<br/>
 <small>[ <a href="#/" onclick="visib('deepfake')">Abstract</a> | [Draft][deepfake-draft] | [Commissioned for the Royal Society Report on the Online Information Environment][rs-report] ] </small>
 
 <div id="deepfake" style="display: none; text-align: justify; line-height: 1.2" ><small>
