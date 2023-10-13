@@ -21,7 +21,7 @@ Over the past several decades, econometrics research has devoted substantial eff
 </small><br><br/></div>
 
 <small>
-*Presented at 2023 Econometrics Society North American Summer Meeting (Los Angeles)*
+*Presented at 2023 Econometrics Society North American Summer Meeting, Los Angeles*
 <small>
 
 # <center> Working Papers </center>
@@ -35,7 +35,7 @@ Many explanations have been offered for why replication rates are low in the soc
 </small><br><br/></div>
 
 <small>
-*Presented at 2023 Econometrics Society Australian Meeting (Sydney), 2022 Association for Interdisciplinary Meta-research & Open Science Conference (Melbourne)*
+*Presented at 2023 Econometrics Society Australian Meeting, Sydney; 2022 Association for Interdisciplinary Meta-research & Open Science Conference, Melbourne*
 <small>
 
 [replication-rate-dp]:{{ site.baseurl }}{% link assets/files/20230802_replication_rate.pdf %}
