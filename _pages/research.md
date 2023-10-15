@@ -24,7 +24,7 @@ Over the past several decades, econometrics research has devoted substantial eff
 *Presented at 2023 Econometrics Society North American Summer Meeting, Los Angeles*
 <small>
  
-[clustering-draft]:{{ site.baseurl }}{% link assets/files/20230802_replication_rate.pdf %}
+[clustering-draft]:{{ site.baseurl }}{% link assets/files/vu_jmp_clustering_publication_bias.pdf %}
 
 # <center> Working Papers </center>
 - - -
