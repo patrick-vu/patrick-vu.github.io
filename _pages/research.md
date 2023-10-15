@@ -52,7 +52,7 @@ individuals who are exposed to a deepfake video of neutral content are no more l
 
 </small><br><br/></div>
 
-[deepfake-draft]: https://osf.io/v4bf6
+[deepfake-draft]: https://osf.io/cb7rw
 [rs-report]: https://royalsociety.org/-/media/policy/projects/online-information-environment/the-online-information-environment.pdf
 [alewis]: https://www.politics.ox.ac.uk/person/andrew-lewis
 [rduch]: https://www.raymondduch.com/
