@@ -14,7 +14,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 # <center> Job Market Paper </center>
 
 **Can Clustering Standard Errors Exacerbate Publication Bias?**<br/>
-<small>[ <a href="#/" onclick="visib('clustering')">Abstract</a> | [Draft][clustering-draft] ] </small>
+<small>[ <a href="#/" onclick="visib('clustering')">Abstract</a> | [Draft][log0-draft] ] </small>
 
 <div id="clustering" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Over the past several decades, econometrics research has devoted substantial efforts to improving the credibility of standard errors. This paper studies how such improvements interact with the selective publication process to affect the ultimate credibility of published studies. I show that adopting improved but enlarged standard errors for individual studies can lead to higher bias in the studies selected for publication. Intuitively, this is because increasing standard errors raises the bar on statistical significance, which exacerbates publication bias. Nevertheless, I show that the coverage of published confidence intervals unambiguously improves. I illustrate these phenomena using newly collected data on the adoption of clustered standard errors in the difference-in-differences literature between 2000 and 2009. Clustering is associated with a near doubling in the magnitude of published effect sizes. I estimate a model of the publication process and find that clustering led to large improvements in coverage but also sizeable increases in bias. To examine the overall impact on evidenced-based policy, I develop a model of a policymaker who uses information from published studies to inform policy decisions and overestimates the precision of estimates when standard errors are unclustered. I find that clustering lowers minimax regret when policymakers exhibit sufficiently high loss aversion for mistakenly implementing an ineffective or harmful policy.
@@ -23,7 +23,7 @@ Over the past several decades, econometrics research has devoted substantial eff
 <small>
 *Presented at 2023 Econometrics Society North American Summer Meeting, Los Angeles*
 <small>
-[clustering-draft]:{{ site.baseurl }}{% link assets/files/vu_jmp_clustering_publication_bias.pdf %}
+[log0-draft]:{{ site.baseurl }}{% link assets/files/vu_jmp_clustering_publication_bias.pdf %}
 
 # <center> Working Papers </center>
 - - -
