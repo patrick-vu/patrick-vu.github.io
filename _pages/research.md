@@ -13,7 +13,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 # <center> Job Market Paper </center>
 
-**Can Standard Error Corrections Exacerbate Publication Bias?**<br/>
+**Do Standard Error Corrections Exacerbate Publication Bias?**<br/>
 <small>[ <a href="#/" onclick="visib('clustering')">Abstract</a> | [Draft][clustering-draft] ] </small>
 
 <div id="clustering" style="display: none; text-align: justify; line-height: 1.2" ><small>
