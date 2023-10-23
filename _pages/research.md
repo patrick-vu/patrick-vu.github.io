@@ -44,6 +44,18 @@ Many explanations have been offered for why replication rates are low in the soc
 [rr-replication]: https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/182521
 
 
+**Optimal Publication Rules for Evidence-Based Policy** (with [Toru Kitagawa][tkitagawa]).<br/>
+<small>[ <a href="#/" onclick="visib('minimax-publication-bias')">Abstract</a> | [Draft][minimax-publication-bias-draft] ] </small>
+
+<div id="minimax-publication-bias" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Empirical research can inform evidence-based policy choice but may be censored due to publication bias. How does this impact the decisions of policymakers who do not have, or are unwilling to use, prior beliefs about a policy's impact? For minimax regret policymakers, we characterize the optimal treatment rule with selective publication against statistically insignificant results. We then show that the optimal publication rule which minimizes maximum regret is non-selective. This contrasts with the optimal publication rule for Bayesian policymakers studied in the literature, where only `extreme' results that sufficiently move the prior are published. Thus, in the minimax regret framework, the optimal publication regime for policy choice is consistent with valid statistical inference in scientific research.
+</small><br><br/></div>
+
+[minimax-publication-bias-draft]:{{ site.baseurl }}{% link assets/files/minimax_publication_bias_draft.pdf %}
+
+[tkitagawa]: https://sites.google.com/brown.edu/torukitagawa
+
+
 **Deepfake Detection With and Without Content Warnings** (with [Andrew Lewis][alewis], [Raymond M. Duch][rduch] and [Areeq Chowdhury][achowdhury]). *Revised and Resubmited, Royal Society Open Science.*<br/>
 <small>[ <a href="#/" onclick="visib('deepfake')">Abstract</a> | [Draft][deepfake-draft] | [Commissioned for the Royal Society Report on the Online Information Environment][rs-report] ] </small>
 
@@ -74,12 +86,6 @@ Women’s schooling attainment in India continues to lag considerably behind tha
 
 # <center> Research in Progress </center>
 - - -
-
-
-
-**Optimal Publication Rules for Evidence-Based Policy** (with [Toru Kitagawa][tkitagawa]).
-
-[tkitagawa]: https://sites.google.com/brown.edu/torukitagawa
 
 
 **How Do Individuals Learn? Evidence from Rwanda** (with [Aislinn Bohren][abohren], and [Daniel Björkegren][dbjorkegren]).
