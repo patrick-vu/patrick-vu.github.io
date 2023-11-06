@@ -10,11 +10,11 @@ redirect_from:
 
 I'm a PhD candidate in Economics at Brown University in my 5th year.
 
-**I am on the 2023/2024 job market.**
-
 My research interests are primarily in applied and theoretical econometrics, with a focus on how publication bias impacts the statistical credibility of published research and the quality of evidence-based policy decisions. I also work in development economics.
 
 I have an MPhil in economics from the University of Oxford and an undergraduate degree from the University of Western Australia, with majors in economics and classical music. Prior to graduate school I worked as an economist at the Reserve Bank of Australia. 
+
+**I am on the 2023/2024 job market.**
 
 For more information, see my [CV](https://www.patrickhvu.com/assets/files/cv_patrickvu.pdf). You can reach me at: [patrick_vu@brown.edu](patrick_vu@brown.edu).
 
