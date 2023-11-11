@@ -21,7 +21,7 @@ Over the past several decades, econometrics research has devoted substantial eff
 </small><br><br/></div>
 
 <small>
-*2023 George Borts Prize for best doctoral dissertation in economics, Brown University.*<br/>
+*2023 George Borts Prize for best doctoral dissertation in economics, Brown University*<br/>
 *Presented at 2023 Econometrics Society North American Summer Meeting, Los Angeles; 2023 MAER-Net Colloquium; 2023 AYEW Monash University*
 <small>
 
