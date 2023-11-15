@@ -58,14 +58,15 @@ Empirical research can inform evidence-based policy choice but may be censored d
 [tkitagawa]: https://sites.google.com/brown.edu/torukitagawa
 
 
-**Deepfake Detection With and Without Content Warnings** (with [Andrew Lewis][alewis], [Raymond M. Duch][rduch] and [Areeq Chowdhury][achowdhury]). *Revised and Resubmited, Royal Society Open Science.*<br/>
+
+# <center> Published Papers </center>
+- - -
+**Deepfake Detection With and Without Content Warnings** (with [Andrew Lewis][alewis], [Raymond M. Duch][rduch] and [Areeq Chowdhury][achowdhury]). *Forthcoming, Royal Society Open Science.*<br/>
 <small>[ <a href="#/" onclick="visib('deepfake')">Abstract</a> | [Draft][deepfake-draft] | [Commissioned for the Royal Society Report on the Online Information Environment][rs-report] ] </small>
 
 <div id="deepfake" style="display: none; text-align: justify; line-height: 1.2" ><small>
 The rapid advancement of ‘deepfake’ video technology — which uses deep learning artificial intelligence algorithms to create fake videos that look real — has given urgency to the question of how policymakers and technology companies should moderate inauthentic content. We conduct an experiment to measure people’s alertness to and ability to detect a high-quality deepfake amongst a set of videos. First, we find that in a natural setting with no content warnings,
 individuals who are exposed to a deepfake video of neutral content are no more likely to detect anything out of the ordinary (32.9%) compared to a control group who viewed only authentic videos (34.1%). Second, we find that when individuals are given a warning that at least one video in a set of five videos is a deepfake, only 21.6% of respondents correctly identify the deepfake as the only inauthentic video, while the remainder erroneously select at least one genuine video as a deepfake.
-
-
 </small><br><br/></div>
 
 [deepfake-draft]: https://osf.io/cb7rw
@@ -74,8 +75,6 @@ individuals who are exposed to a deepfake video of neutral content are no more l
 [rduch]: https://www.raymondduch.com/
 [achowdhury]: https://areeqchowdhury.com/
 
-# <center> Published Papers </center>
-- - -
 **Gender Inequality in Education and Kinship Norms in India** (with [Anu Rammohan][arammohan]). 2018. *Feminist Economics*.<br/>
 <small>[ <a href="#/" onclick="visib('education-kinship')">Abstract</a> | [Paper][education-kinship] ] </small>
 
