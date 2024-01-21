@@ -31,7 +31,7 @@ Over the past several decades, econometrics research has devoted substantial eff
 # <center> Working Papers </center>
 - - -
 
-**Why Are Replication Rates So Low?** 2023. *Under Review.* <br/>
+**Why Are Replication Rates So Low?** 2023. *Revise and Resubmit, Journal of Econometrics.* <br/>
 <small>[ <a href="#/" onclick="visib('replication-rate')">Abstract</a> | [Draft][replication-rate-dp] | [Replication package][rr-replication] ] </small>
 
 <div id="replication-rate" style="display: none; text-align: justify; line-height: 1.2" ><small>
