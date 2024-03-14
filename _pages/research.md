@@ -99,11 +99,6 @@ The MTurk Replication Project will test the reproducibility of 26 social science
 
 
 
-**How Do Individuals Learn? Evidence from Rwanda** (with [Aislinn Bohren][abohren], and [Daniel Björkegren][dbjorkegren]).
-
-[abohren]: https://www.aislinnbohren.com/
-[dbjorkegren]: https://dan.bjorkegren.com/
-
 **Pollution Externalities and Environmental Adaptation: Evidence from Vietnam** (with [Michael Neubauer][mneubauer]).
 
 [mneubauer]: https://ibes.brown.edu/people/michael-neubauer
