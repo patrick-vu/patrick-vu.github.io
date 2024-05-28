@@ -14,5 +14,5 @@ My research interests are primarily in applied and theoretical econometrics, wit
 
 I have an MPhil in economics from the University of Oxford and an undergraduate degree from the University of Western Australia, with majors in economics and classical music. Prior to graduate school I worked as an economist at the Reserve Bank of Australia. 
 
-For more information, see my [CV](https://www.patrickhvu.com/assets/files/cv_patrickvu.pdf). You can reach me at: [patrick_vu@brown.edu](patrick_vu@brown.edu).
+For more information, see my [CV](https://www.patrickhvu.com/assets/files/cv_patrickvu.pdf). You can reach me at: [patrick.hd.vu@gmail.com](patrick.hd.vu@gmail.com).
 
