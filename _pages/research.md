@@ -31,7 +31,7 @@ Over the past several decades, econometrics research has devoted substantial eff
 # <center> Working Papers </center>
 - - -
 
-**Why Are Replication Rates So Low?** 2023. *Revise and Resubmit, Journal of Econometrics.* <br/>
+**Why Are Replication Rates So Low?** 2024. *Revise and Resubmit, Journal of Econometrics.* <br/>
 <small>[ <a href="#/" onclick="visib('replication-rate')">Abstract</a> | [Draft][replication-rate-dp] | [Replication package][rr-replication] ] </small>
 
 <div id="replication-rate" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -42,7 +42,7 @@ Many explanations have been offered for why replication rates are low in the soc
 *Presented at 2024 BITSS Annual Meeting, Berkeley; 2023 Econometrics Society Australian Meeting, Sydney; 2022 Association for Interdisciplinary Meta-research & Open Science Conference, Melbourne*
 <small>
 
-[replication-rate-dp]:{{ site.baseurl }}{% link assets/files/20230802_replication_rate.pdf %}
+[replication-rate-dp]:{{ site.baseurl }}{% link assets/files/20240704_replication_rate.pdf %}
 [rr-replication]: https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/182521
 
 
