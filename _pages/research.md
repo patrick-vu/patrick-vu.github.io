@@ -42,7 +42,7 @@ Many explanations have been offered for why replication rates are low in the soc
 *Presented at 2024 BITSS Annual Meeting, Berkeley; 2023 Econometrics Society Australian Meeting, Sydney; 2022 Association for Interdisciplinary Meta-research & Open Science Conference, Melbourne*
 <small>
 
-[replication-rate-dp]:{{ site.baseurl }}{% link assets/files/20240704_replication_rate.pdf %}
+[replication-rate-dp]:{{ site.baseurl }}{% link assets/files/20240930_replication_rate.pdf %}
 [rr-replication]: https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/182521
 
 
