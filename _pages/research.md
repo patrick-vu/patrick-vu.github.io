@@ -11,7 +11,9 @@ permalink: /research/
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-# <center> Job Market Paper </center>
+
+# <center> Working Papers </center>
+- - -
 
 **Do Standard Error Corrections Exacerbate Publication Bias?**<br/>
 <small>[ <a href="#/" onclick="visib('clustering')">Abstract</a> | [Draft][clustering-draft] ] </small>
@@ -21,16 +23,12 @@ Over the past several decades, econometrics research has devoted substantial eff
 </small><br><br/></div>
 
 <small>
-*2023 George Borts Prize for best doctoral dissertation in economics, Brown University*<br/>
+*Job Market Paper. 2023 George Borts Prize for best doctoral dissertation in economics, Brown University*<br/>
   <br/>
 *Presented at 2023 Econometrics Society North American Summer Meeting, Los Angeles; 2023 MAER-Net Colloquium; 2023 AYEW Monash University*
 <small>
 
 [clustering-draft]:{{ site.baseurl }}{% link assets/files/vu_jmp_clustering_publication_bias.pdf %}
-
-# <center> Working Papers </center>
-- - -
-
 
 **Optimal Publication Rules for Evidence-Based Policy** (with [Toru Kitagawa][tkitagawa]).<br/>
 <small>[ <a href="#/" onclick="visib('minimax-publication-bias')">Abstract</a> | [Draft][minimax-publication-bias-draft] ] </small>
