@@ -31,20 +31,6 @@ Over the past several decades, econometrics research has devoted substantial eff
 # <center> Working Papers </center>
 - - -
 
-**Why Are Replication Rates So Low?** 2024. *Forthcoming, Journal of Econometrics.* <br/>
-<small>[ <a href="#/" onclick="visib('replication-rate')">Abstract</a> | [Draft][replication-rate-dp] | [Replication package][rr-replication] ] </small>
-
-<div id="replication-rate" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Many explanations have been offered for why replication rates are low in the social sciences, including selective publication, p-hacking, and treatment effect heterogeneity. This article emphasizes that issues with the most commonly used approach for setting sample sizes in replication studies may also play an important role. Theoretically, I show in a simple model of the publication process that we should expect the replication rate to fall below its nominal target, even when original studies are unbiased. The main mechanism is that the most commonly used approach for setting the replication sample size does not properly account for the fact that original effect sizes are estimated. Specifically, it sets the replication sample size to achieve a nominal power target under the assumption that estimated effect sizes correspond to fixed true effects. However, since there are non-linearities in the replication power function linking original effect sizes to power, ignoring the fact that effect sizes are estimated leads to systematically lower replication rates than intended. Empirically, I find that a parsimonious model accounting only for these issues can fully explain observed replication rates in experimental economics and social science, and two-thirds of the replication gap in psychology. I conclude with practical recommendations for replicators.
-</small><br><br/></div>
-
-<small>
-*Presented at 2024 BITSS Annual Meeting, Berkeley; 2023 Econometrics Society Australian Meeting, Sydney; 2022 Association for Interdisciplinary Meta-research & Open Science Conference, Melbourne*
-<small>
-
-[replication-rate-dp]:{{ site.baseurl }}{% link assets/files/20240930_replication_rate.pdf %}
-[rr-replication]: https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/182521
-
 
 **Optimal Publication Rules for Evidence-Based Policy** (with [Toru Kitagawa][tkitagawa]).<br/>
 <small>[ <a href="#/" onclick="visib('minimax-publication-bias')">Abstract</a> | [Draft][minimax-publication-bias-draft] ] </small>
@@ -59,8 +45,22 @@ Empirical research can inform evidence-based policy choice but may be censored d
 
 
 
-# <center> Published Papers </center>
+# <center> Published and Forthcoming Papers </center>
 - - -
+**Why Are Replication Rates So Low?** 2024. *Forthcoming, Journal of Econometrics.* <br/>
+<small>[ <a href="#/" onclick="visib('replication-rate')">Abstract</a> | [Draft][replication-rate-dp] | [Replication package][rr-replication] ] </small>
+
+<div id="replication-rate" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Many explanations have been offered for why replication rates are low in the social sciences, including selective publication, p-hacking, and treatment effect heterogeneity. This article emphasizes that issues with the most commonly used approach for setting sample sizes in replication studies may also play an important role. Theoretically, I show in a simple model of the publication process that we should expect the replication rate to fall below its nominal target, even when original studies are unbiased. The main mechanism is that the most commonly used approach for setting the replication sample size does not properly account for the fact that original effect sizes are estimated. Specifically, it sets the replication sample size to achieve a nominal power target under the assumption that estimated effect sizes correspond to fixed true effects. However, since there are non-linearities in the replication power function linking original effect sizes to power, ignoring the fact that effect sizes are estimated leads to systematically lower replication rates than intended. Empirically, I find that a parsimonious model accounting only for these issues can fully explain observed replication rates in experimental economics and social science, and two-thirds of the replication gap in psychology. I conclude with practical recommendations for replicators.
+</small><br><br/></div>
+
+<small>
+*Presented at 2024 BITSS Annual Meeting, Berkeley; 2023 Econometrics Society Australian Meeting, Sydney; 2022 Association for Interdisciplinary Meta-research & Open Science Conference, Melbourne*
+<small>
+
+[replication-rate-dp]:{{ site.baseurl }}{% link assets/files/20240930_replication_rate.pdf %}
+[rr-replication]: https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/182521
+
 **Deepfake Detection With and Without Content Warnings** (with [Andrew Lewis][alewis], [Raymond M. Duch][rduch] and [Areeq Chowdhury][achowdhury]). *Royal Society Open Science.*<br/>
 <small>[ <a href="#/" onclick="visib('deepfake')">Abstract</a> | [Paper][deepfake-paper] | [Commissioned for the Royal Society Report on the Online Information Environment][rs-report] ] </small>
 
