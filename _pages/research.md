@@ -89,6 +89,11 @@ Women’s schooling attainment in India continues to lag considerably behind tha
 # <center> Research in Progress </center>
 - - -
 
+**p-Hacking Instrument Selection** (with [Michael Keane][mkeane] and [Timothy Neal][tneal]).
+
+[mkeane]: https://scholar.google.co.uk/citations?user=lIV7LhIAAAAJ&hl=en
+[tneal]: https://sites.google.com/site/tjrneal/
+
 **Preregistration: Out-of-Sample Replication Rate Predictions for the [MTurk Replication Project](https://mtrp.info/index.html)**<br/>
 <small>[ <a href="#/" onclick="visib('preregistered-prediction')">Abstract</a> | [Preregistration][preregistered-prediction-draft] ] </small>
 <div id="preregistered-prediction" style="display: none; text-align: justify; line-height: 1.2" ><small>
