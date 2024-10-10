@@ -23,9 +23,8 @@ Over the past several decades, econometrics research has devoted substantial eff
 </small><br><br/></div>
 
 <small>
-*Job Market Paper. 2023 George Borts Prize for best doctoral dissertation in economics, Brown University*<br/>
+*Job Market Paper. 2023 George Borts Prize for best doctoral dissertation in economics, Brown University. Presented at 2023 Econometrics Society North American Summer Meeting, Los Angeles; 2023 MAER-Net Colloquium; 2023 AYEW Monash University*<br/>
   <br/>
-*Presented at 2023 Econometrics Society North American Summer Meeting, Los Angeles; 2023 MAER-Net Colloquium; 2023 AYEW Monash University*
 <small>
 
 [clustering-draft]:{{ site.baseurl }}{% link assets/files/vu_jmp_clustering_publication_bias.pdf %}
