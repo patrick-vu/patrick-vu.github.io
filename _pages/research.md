@@ -58,7 +58,7 @@ Many explanations have been offered for why replication rates are low in the soc
 [replication-rate-dp]:{{ site.baseurl }}{% link assets/files/20240930_replication_rate.pdf %}
 [rr-replication]: https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/182521
 
-**Deepfake Detection With and Without Content Warnings[https://royalsocietypublishing.org/doi/10.1098/rsos.231214]** (with [Andrew Lewis][alewis], [Raymond M. Duch][rduch] and [Areeq Chowdhury][achowdhury]) 2023. *Royal Society Open Science.*<br/>
+**[Deepfake Detection With and Without Content Warnings](https://royalsocietypublishing.org/doi/10.1098/rsos.231214)** (with [Andrew Lewis][alewis], [Raymond M. Duch][rduch] and [Areeq Chowdhury][achowdhury]) 2023. *Royal Society Open Science.*<br/>
 <small>[ <a href="#/" onclick="visib('deepfake')">Abstract</a> | [Paper][deepfake-paper] | [Commissioned for the Royal Society Report on the Online Information Environment][rs-report] ] </small>
 
 <div id="deepfake" style="display: none; text-align: justify; line-height: 1.2" ><small>
