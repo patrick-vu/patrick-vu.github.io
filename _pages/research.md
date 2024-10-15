@@ -73,7 +73,7 @@ individuals who are exposed to a deepfake video of neutral content are no more l
 [rduch]: https://www.raymondduch.com/
 [achowdhury]: https://areeqchowdhury.com/
 
-**Gender Inequality in Education and Kinship Norms in India** (with [Anu Rammohan][arammohan]). 2018. *Feminist Economics*.<br/>
+**[Gender Inequality in Education and Kinship Norms in India](https://www.tandfonline.com/doi/abs/10.1080/13545701.2017.1364399#:~:text=However%2C%20the%20norm%20of%20patrilocal,more%20pronounced%20in%20Northern%20India.)** (with [Anu Rammohan][arammohan]). 2018. *Feminist Economics*.<br/>
 <small>[ <a href="#/" onclick="visib('education-kinship')">Abstract</a> | [Paper][education-kinship] ] </small>
 
 <div id="education-kinship" style="display: none; text-align: justify; line-height: 1.2" ><small>
