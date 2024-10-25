@@ -44,7 +44,7 @@ Empirical research can inform evidence-based policy choice but may be censored d
 
 # <center> Published and Forthcoming Papers </center>
 - - -
-**[Why Are Replication Rates So Low?](https://www.sciencedirect.com/science/article/pii/S0304407624002136)** 2024. *Forthcoming, Journal of Econometrics.* <br/>
+**[Why Are Replication Rates So Low?](https://www.sciencedirect.com/science/article/pii/S0304407624002136?utm_campaign=STMJ_219742_AUTH_SERV_PA&utm_medium=email&utm_acid=222802016&SIS_ID=&dgcid=STMJ_219742_AUTH_SERV_PA&CMX_ID=&utm_in=DM517501&utm_source=AC)** 2024. *Forthcoming, Journal of Econometrics.* <br/>
 <small>[ <a href="#/" onclick="visib('replication-rate')">Abstract</a> | [Draft][replication-rate-dp] | [Replication package][rr-replication] ] </small>
 
 <div id="replication-rate" style="display: none; text-align: justify; line-height: 1.2" ><small>
