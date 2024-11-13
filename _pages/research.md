@@ -101,9 +101,6 @@ The MTurk Replication Project will test the reproducibility of 26 social science
 
 
 
-**Pollution Externalities and Environmental Adaptation: Evidence from Vietnam** (with [Michael Neubauer][mneubauer]).
-
-[mneubauer]: https://ibes.brown.edu/people/michael-neubauer
 
 [//]: This java script is the button to show abstract
 <script>
