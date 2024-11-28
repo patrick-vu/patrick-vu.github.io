@@ -27,7 +27,7 @@ Over the past several decades, econometrics research has devoted substantial eff
   <br/>
 <small>
 
-[clustering-draft]:{{ site.baseurl }}{% link assets/files/vu_jmp_clustering_publication_bias.pdf %}
+[clustering-draft]:{{ site.baseurl }}{% link assets/files/20241129_clustering.pdf %}
 
 **Optimal Publication Rules for Evidence-Based Policy** (with [Toru Kitagawa][tkitagawa]).<br/>
 <small>[ <a href="#/" onclick="visib('minimax-publication-bias')">Abstract</a> | [Draft][minimax-publication-bias-draft] ] </small>
