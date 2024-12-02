@@ -91,7 +91,7 @@ Women’s schooling attainment in India continues to lag considerably behind tha
 [mkeane]: https://scholar.google.co.uk/citations?user=lIV7LhIAAAAJ&hl=en
 [tneal]: https://sites.google.com/site/tjrneal/
 
-**Preregistration: Out-of-Sample Replication Rate Predictions for the [MTurk Replication Project](https://mtrp.info/index.html)**<br/>
+**Preregistration: Out-of-Sample Replication Rate Predictions for the [MTurk Replication Project](https://www.nature.com/articles/s41562-024-02062-9)**<br/>
 <small>[ <a href="#/" onclick="visib('preregistered-prediction')">Abstract</a> | [Preregistration][preregistered-prediction-draft] ] </small>
 <div id="preregistered-prediction" style="display: none; text-align: justify; line-height: 1.2" ><small>
 The MTurk Replication Project will test the reproducibility of 26 social science studies that used online research participants and were published in PNAS between 2015 and 2018. For the subset of 19 studies reporting t-ratios, this paper preregisters an out-of-sample prediction that 57% will be successfully replicated with a statistical significant effect in the same direction as the original study. It also preregisters individual-study predictions, identifying ten studies with very high expected replication probabilities (>95%) and seven studies with relatively low expected replication probabilities (<15%). These 'predictions' should be viewed as estimates of real replication power given the project's replication design. When replication outcomes are made publicly available, I will compare them against my preregistered estimates of real replication power.
