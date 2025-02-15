@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an Assistant Professor/Lecturer of Economics at the UNSW Business School. 
+I'm a Lecturer (Assistant Professor) of Economics at the UNSW Business School. 
 
 My research interests are primarily in applied and theoretical econometrics, with a focus on how publication bias impacts the statistical credibility of published research and the quality of evidence-based policy decisions.
 
