@@ -19,7 +19,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <small>[ <a href="#/" onclick="visib('clustering')">Abstract</a> | [Draft][clustering-draft] ] </small>
 
 <div id="clustering" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Standard error corrections often enlarge standard errors and thus require larger effect sizes for statistical significance. Theoretically, I show that the interaction between corrections and selective publication can inadvertently exacerbate bias in published studies. I illustrate this phenomenon using a new dataset on the adoption of clustered standard errors in difference-in-differences studies in the 2000s. Clustering is associated with a near doubling in the magnitude of effect sizes, while t-statistics are essentially unchanged. I estimate a model of the publication process and find that clustering led to large improvements in coverage but also sizable increases in bias. To examine welfare effects, I estimate a decision-theoretic model of an audience that uses evidence from published studies to inform decisions and overestimates the precision of estimates when standard errors are unclustered. I find that clustering improves welfare, as the benefits from more accurate belief updating outweigh the costs of increased publication bias.
+In a canonical model of the publication process, I show that the interaction between standard error corrections and selective publication can inadvertently increase bias in published studies. This occurs because larger standard errors raise the bar for statistical significance, exacerbating publication bias. Empirically, in the difference-in-difference literature, clustered standard errors are associated with a near doubling of effect sizes. Using an empirical model, I find that clustering led to large improvements in coverage but also sizable increases in bias. Nonetheless, clustering is welfare-improving from a decision-theoretic perspective, as more accurate belief updating outweighs the costs of increased publication bias.
 </small><br><br/></div>
 
 <small>
@@ -27,7 +27,7 @@ Standard error corrections often enlarge standard errors and thus require larger
   <br/>
 <small>
 
-[clustering-draft]:{{ site.baseurl }}{% link assets/files/20250625_clustering.pdf %}
+[clustering-draft]:{{ site.baseurl }}{% link assets/files/20250711_clustering.pdf %}
 
 **Optimal Publication Rules for Evidence-Based Policy** (with [Toru Kitagawa][tkitagawa]).<br/>
 <small>[ <a href="#/" onclick="visib('minimax-publication-bias')">Abstract</a> | [Draft][minimax-publication-bias-draft] ] </small>
