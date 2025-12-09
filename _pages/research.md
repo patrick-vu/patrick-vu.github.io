@@ -29,6 +29,23 @@ In a canonical model of the publication process, I show that the interaction bet
 
 [clustering-draft]:{{ site.baseurl }}{% link assets/files/20250711_clustering.pdf %}
 
+
+**Optimal Screening in Experiments with Partial Compliance** (with [Christopher Carter][ccarter], [Adeline Delavande][adelavande], [Mario Fiorini][mfiorini] and [Peter Siminski][psiminski]).<br/>
+<small>[ <a href="#/" onclick="visib('screening')">Abstract</a> | [Draft][screening-draft] ] </small>
+
+<div id="screening" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This note studies optimal experimental design under partial compliance when experimenters can screen participants prior to randomization. Theoretical results show that retaining all compliers and screening out all non-compliers achieves three complementary aims: (i) the Local Average Treatment Effect is the same as the standard 2SLS estimator with no screening; (ii) median bias is minimized; and (iii) statistical power is maximized. In practice, complier status is unobserved. We therefore discuss feasible screening strategies and propose a simple test for screening efficacy. Future work will conduct an experiment to demonstrate the feasibility and advantages of the optimal screening design.
+</small><br><br/></div>
+
+[screening-draft]:{{ site.baseurl }}{% link assets/files/optimal_screening_draft.pdf %}
+
+[ccarter]: https://www.uts.edu.au/about/faculties/business/research/economics-phd-program/carter-christopher
+[adelavande]: https://sites.google.com/site/aldelaresearch/
+[mfiorini]: https://sites.google.com/site/mariofioriniuni/
+[psiminski]: https://sites.google.com/view/petersiminski
+
+
+
 **Optimal Publication Rules for Evidence-Based Policy** (with [Toru Kitagawa][tkitagawa]).<br/>
 <small>[ <a href="#/" onclick="visib('minimax-publication-bias')">Abstract</a> | [Draft][minimax-publication-bias-draft] ] </small>
 
