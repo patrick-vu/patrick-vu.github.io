@@ -27,7 +27,7 @@ In a canonical model of the publication process, I show that the interaction bet
   <br/>
 <small>
 
-[clustering-draft]:{{ site.baseurl }}{% link assets/files/20250711_clustering.pdf %}
+[clustering-draft]:{{ site.baseurl }}{% link assets/files/20260116_clustering.pdf %}
 
 
 **Optimal Screening in Experiments with Partial Compliance** (with [Christopher Carter][ccarter], [Adeline Delavande][adelavande], [Mario Fiorini][mfiorini] and [Peter Siminski][psiminski]).<br/>
