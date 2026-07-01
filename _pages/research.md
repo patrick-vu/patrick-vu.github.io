@@ -31,7 +31,7 @@ In a canonical model of the publication process, I show that the interaction bet
 
 
 **Instrument-Hacking** (with [Michael Keane][mkeane] and [Timothy Neal][tneal]).
-<small>[ <a href="#/" onclick="visib('clustering')">Abstract</a> | [Draft][instrument-draft] | [Online Appendix][instrument-online-appendix] ] </small>
+<small>[ <a href="#/" onclick="visib('instrument-hacking')">Abstract</a> | [Draft][instrument-draft] | [Online Appendix][instrument-online-appendix] ] </small>
 
 <div id="instrument-hacking" style="display: none; text-align: justify; line-height: 1.2" ><small>
 In instrumental-variable (IV) studies, researchers often evaluate multiple candidate instruments and selectively report the specification with the most favorable first- or second-stage statistics. We show that this form of instrument selection (``instrument-hacking'')  induces median bias in IV estimators toward the OLS estimand, undermining the rationale for using IV. When all candidate instruments have the same true strength, median bias increases monotonically with the number of available instruments. More generally, when candidate instruments differ in true strength, monotonicity need not hold because increasing the number of instruments can lead researchers to select genuinely stronger instruments. Nonetheless, in simulations calibrated to the empirical distribution of instrument strengths in the IV literature, median bias increases monotonically with the number of available instruments. Furthermore, it is substantial in magnitude, even when only a few instruments are available.
