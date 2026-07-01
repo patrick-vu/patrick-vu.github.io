@@ -127,6 +127,10 @@ Women’s schooling attainment in India continues to lag considerably behind tha
 # <center> Research in Progress </center>
 - - -
 
+**How Replicable are Statistically Significant Findings?** (with [Stefan Faridani][sfaridani]).
+
+[sfaridani]: https://www.stefanfaridani.com/
+
 
 
 **Preregistration: Out-of-Sample Replication Rate Predictions for the [MTurk Replication Project](https://www.nature.com/articles/s41562-024-02062-9)**<br/>
