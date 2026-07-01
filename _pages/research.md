@@ -30,7 +30,7 @@ In a canonical model of the publication process, I show that the interaction bet
 [clustering-draft]:{{ site.baseurl }}{% link assets/files/20260116_clustering.pdf %}
 
 
-**Instrument-Hacking** (with [Michael Keane][mkeane] and [Timothy Neal][tneal]).
+**Instrument-Hacking** (with [Michael Keane][mkeane] and [Timothy Neal][tneal]).<br/>
 <small>[ <a href="#/" onclick="visib('instrument-hacking')">Abstract</a> | [Draft][instrument-draft] | [Online Appendix][instrument-online-appendix] ] </small>
 
 <div id="instrument-hacking" style="display: none; text-align: justify; line-height: 1.2" ><small>
