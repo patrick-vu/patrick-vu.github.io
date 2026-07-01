@@ -24,11 +24,9 @@ In a canonical model of the publication process, I show that the interaction bet
 
 <small>
 *Job Market Paper. 2023 George Borts Prize for best doctoral dissertation in economics, Brown University. Presented at 2023 Econometrics Society North American Summer Meeting, Los Angeles; 2023 MAER-Net Colloquium; 2023 AYEW Monash University*<br/>
-  <br/>
 <small>
 
 [clustering-draft]:{{ site.baseurl }}{% link assets/files/20260116_clustering.pdf %}
-
 
 **Instrument-Hacking** (with [Michael Keane][mkeane] and [Timothy Neal][tneal]).<br/>
 <small>[ <a href="#/" onclick="visib('instrument-hacking')">Abstract</a> | [Draft][instrument-draft] | [Online appendix][instrument-online-appendix] ] </small>
@@ -42,8 +40,6 @@ In instrumental-variable (IV) studies, researchers often evaluate multiple candi
 
 [mkeane]: https://scholar.google.co.uk/citations?user=lIV7LhIAAAAJ&hl=en
 [tneal]: https://sites.google.com/site/tjrneal/
-
-
 
 
 
