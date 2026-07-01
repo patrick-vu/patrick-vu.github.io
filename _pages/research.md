@@ -27,7 +27,25 @@ In a canonical model of the publication process, I show that the interaction bet
   <br/>
 <small>
 
-[clustering-draft]:{{ site.baseurl }}{% link assets/files/20260116_clustering.pdf %}
+[clustering-draft]:{{ site.baseurl }}{% link assets/files/20260116_clustering.pdf %}<br/>
+<small>[ <a href="#/" onclick="visib('screening')">Abstract</a> | [Draft][instrument-draft] ] </small>
+
+
+**Instrument-Hacking** (with [Michael Keane][mkeane] and [Timothy Neal][tneal]).
+<small>[ <a href="#/" onclick="visib('clustering')">Abstract</a> | [Draft][instrument-draft] ] </small>
+
+<div id="instrument-hacking" style="display: none; text-align: justify; line-height: 1.2" ><small>
+In instrumental-variable (IV) studies, researchers often evaluate multiple candidate instruments and selectively report the specification with the most favorable first- or second-stage statistics. We show that this form of instrument selection (``instrument-hacking'')  induces median bias in IV estimators toward the OLS estimand, undermining the rationale for using IV. When all candidate instruments have the same true strength, median bias increases monotonically with the number of available instruments. More generally, when candidate instruments differ in true strength, monotonicity need not hold because increasing the number of instruments can lead researchers to select genuinely stronger instruments. Nonetheless, in simulations calibrated to the empirical distribution of instrument strengths in the IV literature, median bias increases monotonically with the number of available instruments. Furthermore, it is substantial in magnitude, even when only a few instruments are available.
+</small><br><br/></div>
+
+[instrument-draft]:{{ site.baseurl }}{% link assets/files/instrument_hacking_draft.pdf %}<br/>
+<small>[ <a href="#/" onclick="visib('screening')">Abstract</a> | [Draft][instrument-draft] ] </small>
+
+[mkeane]: https://scholar.google.co.uk/citations?user=lIV7LhIAAAAJ&hl=en
+[tneal]: https://sites.google.com/site/tjrneal/
+
+
+
 
 
 **Optimal Screening in Experiments with Partial Compliance** (with [Christopher Carter][ccarter], [Adeline Delavande][adelavande], [Mario Fiorini][mfiorini] and [Peter Siminski][psiminski]).<br/>
@@ -109,10 +127,7 @@ Women’s schooling attainment in India continues to lag considerably behind tha
 # <center> Research in Progress </center>
 - - -
 
-**p-Hacking Instrument Selection** (with [Michael Keane][mkeane] and [Timothy Neal][tneal]).
 
-[mkeane]: https://scholar.google.co.uk/citations?user=lIV7LhIAAAAJ&hl=en
-[tneal]: https://sites.google.com/site/tjrneal/
 
 **Preregistration: Out-of-Sample Replication Rate Predictions for the [MTurk Replication Project](https://www.nature.com/articles/s41562-024-02062-9)**<br/>
 <small>[ <a href="#/" onclick="visib('preregistered-prediction')">Abstract</a> | [Preregistration][preregistered-prediction-draft] ] </small>
