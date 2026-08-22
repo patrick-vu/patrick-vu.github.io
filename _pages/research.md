@@ -23,10 +23,13 @@ In a canonical model of the publication process, I show that the interaction bet
 </small><br><br/></div>
 
 <small>
-*Job Market Paper. 2023 George Borts Prize for best doctoral dissertation in economics, Brown University. Presented at 2023 Econometrics Society North American Summer Meeting, Los Angeles; 2023 MAER-Net Colloquium; 2023 AYEW Monash University*<br/>
+*Job Market Paper. 2023 George Borts Prize for best doctoral dissertation in economics, Brown University.*<br/>
 <small>
 
 [clustering-draft]:{{ site.baseurl }}{% link assets/files/20260116_clustering.pdf %}
+
+
+
 
 **Instrument-Hacking** (with [Michael Keane][mkeane] and [Timothy Neal][tneal]).<br/>
 <small>[ <a href="#/" onclick="visib('instrument-hacking')">Abstract</a> | [Draft][instrument-draft] | [Online appendix][instrument-online-appendix] ] </small>
@@ -41,6 +44,16 @@ In instrumental-variable (IV) studies, researchers often evaluate multiple candi
 [mkeane]: https://scholar.google.co.uk/citations?user=lIV7LhIAAAAJ&hl=en
 [tneal]: https://sites.google.com/site/tjrneal/
 
+
+**How Replicable Are Statistically Significant Findings?** (with [Stefan Faridani][sfaridani]).<br/>
+<small>[ <a href="#/" onclick="visib('predictive-power')">Abstract</a> | [Draft][predictive-power-draft] ] </small>
+
+<div id="predictive-power" style="display: none; text-align: justify; line-height: 1.2"><small>
+In the empirical sciences, significance thresholds often determine whether findings are treated as evidence of an effect. This paper studies how likely findings that just meet conventional significance thresholds are to remain significant in replications of the same sample size. We estimate the expected replication probability conditional on a given p-value among published studies in experimental economics, psychology, and social science. We validate this measure by showing that it accurately predicts actual replication outcomes, outperforming prediction markets. A finding with a p-value of 0.05 has an expected replication probability ranging from 0.10 to 0.25 across fields. Low replicability reflects low power in original studies rather than publication bias. We then develop a nonparametric estimator and apply it to economics literatures that use larger samples, finding higher but still low replication probabilities. These results indicate that statistical significance in a single study provides only suggestive evidence of an effect. Stronger conclusions require cumulative evidence.
+</small><br><br/></div>
+
+[predictive-power-draft]:{{ site.baseurl }}{% link assets/files/predictive_power_draft.pdf %}
+[sfaridani]: https://www.stefanfaridani.com/
 
 
 **Optimal Screening in Experiments with Partial Compliance** (with [Christopher Carter][ccarter], [Adeline Delavande][adelavande], [Mario Fiorini][mfiorini] and [Peter Siminski][psiminski]).<br/>
@@ -115,14 +128,10 @@ Women’s schooling attainment in India continues to lag considerably behind tha
 [education-kinship]: https://www.tandfonline.com/doi/abs/10.1080/13545701.2017.1364399#:~:text=However%2C%20the%20norm%20of%20patrilocal,more%20pronounced%20in%20Northern%20India.
 [arammohan]: https://research-repository.uwa.edu.au/en/persons/anu-rammohan
 
+
+<!--
 # <center> Research in Progress </center>
 - - -
-
-**How Replicable are Statistically Significant Findings?** (with [Stefan Faridani][sfaridani]).
-
-[sfaridani]: https://www.stefanfaridani.com/
-
-
 
 **Preregistration: Out-of-Sample Replication Rate Predictions for the [MTurk Replication Project](https://www.nature.com/articles/s41562-024-02062-9)**<br/>
 <small>[ <a href="#/" onclick="visib('preregistered-prediction')">Abstract</a> | [Preregistration][preregistered-prediction-draft] ] </small>
@@ -132,7 +141,7 @@ The MTurk Replication Project will test the reproducibility of 26 social science
 
 [preregistered-prediction-draft]:https://osf.io/q7ckx
 
-
+-->
 
 
 [//]: This java script is the button to show abstract
