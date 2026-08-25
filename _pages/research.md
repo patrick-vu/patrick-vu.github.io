@@ -52,7 +52,7 @@ In instrumental-variable (IV) studies, researchers often evaluate multiple candi
 In the empirical sciences, significance thresholds often determine whether findings are treated as evidence of an effect. This paper studies how likely findings that just meet conventional significance thresholds are to remain significant in replications of the same sample size. We estimate the expected replication probability conditional on a given p-value among published studies in experimental economics, psychology, and social science. We validate this measure by showing that it accurately predicts actual replication outcomes, outperforming prediction markets. A finding with a p-value of 0.05 has an expected replication probability ranging from 0.10 to 0.25 across fields. Low replicability reflects low power in original studies rather than publication bias. We then develop a nonparametric estimator and apply it to economics literatures that use larger samples, finding higher but still low replication probabilities. These results indicate that statistical significance in a single study provides only suggestive evidence of an effect. Stronger conclusions require cumulative evidence.
 </small><br><br/></div>
 
-[predictive-power-draft]:{{ site.baseurl }}{% link assets/files/predictive_power_draft.pdf %}
+[predictive-power-draft]: https://arxiv.org/pdf/2608.23257
 [sfaridani]: https://www.stefanfaridani.com/
 
 
