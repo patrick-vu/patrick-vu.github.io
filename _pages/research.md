@@ -15,7 +15,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 # <center> Working Papers </center>
 - - -
 
-**Do Standard Error Corrections Exacerbate Publication Bias?**<br/> *Submitted.* 
+**Do Standard Error Corrections Exacerbate Publication Bias?** *Submitted.* <br/> 
 <small>[ <a href="#/" onclick="visib('clustering')">Abstract</a> | [Draft][clustering-draft] ] </small>
 
 <div id="clustering" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -28,7 +28,7 @@ In a canonical model of the publication process, I show that the interaction bet
 
 [clustering-draft]:{{ site.baseurl }}{% link assets/files/clustering_bias.pdf %}
 
-**How Replicable Are Statistically Significant Findings?** (with [Stefan Faridani][sfaridani]).<br/> *Submitted.* 
+**How Replicable Are Statistically Significant Findings?** (with [Stefan Faridani][sfaridani]). *Submitted.* <br/> 
 <small>[ <a href="#/" onclick="visib('predictive-power')">Abstract</a> | [Draft][predictive-power-draft] ] </small>
 
 <div id="predictive-power" style="display: none; text-align: justify; line-height: 1.2"><small>
