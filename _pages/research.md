@@ -15,7 +15,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 # <center> Working Papers </center>
 - - -
 
-**Do Standard Error Corrections Exacerbate Publication Bias?**<br/>
+**Do Standard Error Corrections Exacerbate Publication Bias?**<br/> *Submitted.* 
 <small>[ <a href="#/" onclick="visib('clustering')">Abstract</a> | [Draft][clustering-draft] ] </small>
 
 <div id="clustering" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -28,7 +28,15 @@ In a canonical model of the publication process, I show that the interaction bet
 
 [clustering-draft]:{{ site.baseurl }}{% link assets/files/clustering_bias.pdf %}
 
+**How Replicable Are Statistically Significant Findings?** (with [Stefan Faridani][sfaridani]).<br/> *Submitted.* 
+<small>[ <a href="#/" onclick="visib('predictive-power')">Abstract</a> | [Draft][predictive-power-draft] ] </small>
 
+<div id="predictive-power" style="display: none; text-align: justify; line-height: 1.2"><small>
+In the empirical sciences, significance thresholds often determine whether findings are treated as evidence of an effect. This paper studies how likely findings that just meet conventional significance thresholds are to remain significant in replications of the same sample size. To answer this question, we estimate the expected replication probability conditional on a given p-value among published studies for experimental economics, psychology, and social science. We validate this measure by showing it accurately predicts actual replication outcomes, outperforming prediction markets. A finding with a p-value of 0.05 has an expected replication probability ranging from 0.10 to 0.25 across fields. Low replicability reflects small true effects in original studies rather than selective reporting. Significant findings are therefore often informative about the existence of an effect, but frequently overstate its magnitude. Finally, we develop a nonparametric estimator and apply it to economics literatures that use larger samples, finding higher but still low replication probabilities.
+</small><br><br/></div>
+
+[predictive-power-draft]:{{ site.baseurl }}{% link assets/files/predictive_power_draft.pdf %}
+[sfaridani]: https://www.stefanfaridani.com/
 
 
 **Instrument-Hacking** (with [Michael Keane][mkeane] and [Timothy Neal][tneal]).<br/>
@@ -45,15 +53,7 @@ In instrumental-variable (IV) studies, researchers often evaluate multiple candi
 [tneal]: https://sites.google.com/site/tjrneal/
 
 
-**How Replicable Are Statistically Significant Findings?** (with [Stefan Faridani][sfaridani]).<br/>
-<small>[ <a href="#/" onclick="visib('predictive-power')">Abstract</a> | [Draft][predictive-power-draft] ] </small>
 
-<div id="predictive-power" style="display: none; text-align: justify; line-height: 1.2"><small>
-In the empirical sciences, significance thresholds often determine whether findings are treated as evidence of an effect. This paper studies how likely findings that just meet conventional significance thresholds are to remain significant in replications of the same sample size. To answer this question, we estimate the expected replication probability conditional on a given p-value among published studies for experimental economics, psychology, and social science. We validate this measure by showing it accurately predicts actual replication outcomes, outperforming prediction markets. A finding with a p-value of 0.05 has an expected replication probability ranging from 0.10 to 0.25 across fields. Low replicability reflects small true effects in original studies rather than selective reporting. Significant findings are therefore often informative about the existence of an effect, but frequently overstate its magnitude. Finally, we develop a nonparametric estimator and apply it to economics literatures that use larger samples, finding higher but still low replication probabilities.
-</small><br><br/></div>
-
-[predictive-power-draft]:{{ site.baseurl }}{% link assets/files/predictive_power_draft.pdf %}
-[sfaridani]: https://www.stefanfaridani.com/
 
 
 **Optimal Screening in Experiments with Partial Compliance** (with [Christopher Carter][ccarter], [Adeline Delavande][adelavande], [Mario Fiorini][mfiorini] and [Peter Siminski][psiminski]).<br/>
