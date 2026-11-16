@@ -130,7 +130,7 @@ Women’s schooling attainment in India continues to lag considerably behind tha
 
 # <center> Research in Progress </center>
 
-**Setting Sample Sizes for Replication** (with [Stefan Faridani][sfaridani]) <br/>
+**Setting Sample Sizes in Replications** (with [Stefan Faridani][sfaridani]) <br/>
 <small>[ <a href="#/" onclick="visib('sample-sizes')">Abstract</a> ]</small>
 
 <div id="sample-sizes" style="display: none; text-align: justify; line-height: 1.2"><small>
