@@ -128,8 +128,7 @@ Women’s schooling attainment in India continues to lag considerably behind tha
 [education-kinship]: https://www.tandfonline.com/doi/abs/10.1080/13545701.2017.1364399#:~:text=However%2C%20the%20norm%20of%20patrilocal,more%20pronounced%20in%20Northern%20India.
 [arammohan]: https://research-repository.uwa.edu.au/en/persons/anu-rammohan
 
-
-<center>Research in Progress</center>
+# <center> Research in Progress </center>
 
 **Setting Sample Sizes for Replication** (with [Stefan Faridani][sfaridani]) <br/>
 <small>[ <a href="#/" onclick="visib('sample-sizes')">Abstract</a> ]</small>
