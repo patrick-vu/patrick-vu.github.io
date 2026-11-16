@@ -129,6 +129,17 @@ Women’s schooling attainment in India continues to lag considerably behind tha
 [arammohan]: https://research-repository.uwa.edu.au/en/persons/anu-rammohan
 
 
+<center>Research in Progress</center>
+
+**Setting Sample Sizes for Replication** (with [Stefan Faridani][sfaridani]) <br/>
+<small>[ <a href="#/" onclick="visib('sample-sizes')">Abstract</a> ]</small>
+
+<div id="sample-sizes" style="display: none; text-align: justify; line-height: 1.2"><small>
+Replication studies face two related sample-size problems. A researcher may want the smallest sample that achieves a target expected probability of replication (the `targeting problem'), while a funder may need to allocate a fixed sampling budget across many candidate replications (the `allocation problem'). We propose solutions to both problems using the expected probability of successful replication conditional on the original $p$-value, which can be estimated nonparametrically. For the targeting problem, preliminary simulations suggest that our nonparametric approach substantially outperforms conventional power calculations, with performance comparable to parametric alternatives in some settings and superior in others. For the allocation problem, we formulate a dynamic programming approach that maximizes the expected value of successful replications subject to a fixed sampling budget.
+</small><br><br/></div>
+
+
+
 <!--
 # <center> Research in Progress </center>
 - - -
